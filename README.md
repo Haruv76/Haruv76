@@ -52,13 +52,6 @@
 ###
 
 <img align="left" height="500" src="https://cdn.picrew.me/shareImg/org/202506/188948_WiQNUMwf.png"  />
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Haruv76/Haruv76/output/snake.svg" alt="Snake animation" />
-
 ###
 
 <div align="center">
