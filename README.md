@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">About me<br>I love to play Piano And harmonica.<br>I have a Dog and 3 Cats.<br>I am Not that good at english.<br>my pronouns She/Her</h4>
+<h4 align="left">About me<br>I love to play Piano And harmonica.<br>my pronouns She/Her</h4>
 
 ###
 
