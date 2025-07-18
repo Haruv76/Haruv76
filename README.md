@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">About me<br>I love to play Piano And harmonica.<br>my pronouns She/Her</h4>
+<h4 align="left">About me<br>I love to play Piano And harmonica and ofc coding<br>my pronouns is She/Her</h4>
 
 ###
 
