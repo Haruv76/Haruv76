@@ -47,7 +47,7 @@
 
 ###
 
-<br clear="both">
+
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Haruv76/Haruv76/output/pacman-contribution-graph-dark.svg">
