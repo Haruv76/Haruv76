@@ -1,4 +1,5 @@
 <h2 align="left">Haruv aka VI, <br>learning - python & GML<br>Wanna learn - discord.js, C#, C++</h2>
+doing simple things 'cause im a busy woman (;
 
 ###
 
