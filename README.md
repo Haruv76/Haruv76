@@ -1,5 +1,4 @@
 <h2 align="left">Haruv aka V, <br>learning - python (CyberSecurity), Luau & GML, <br>Wanna learn - discord.js, C#, C++ <br>13 yo</h2>
-doing simple things 'cause im a busy woman (;
 
 ###
 
