@@ -1,4 +1,4 @@
-<h2 align="left">Vivian/Haruv • She/Her<br>learning - python (CyberSecurity), Luau, GML, mc skript & javascript<br>Wanna learn - discord.js, C#, C++, PHP<br>13yo</h2>
+<h2 align="left">Vivian/Haruv • She/Her<br>learning - python (CyberSecurity), Luau, GML, mc skript & javascript<br>Wanna learn - discord.js, C#, C++, PHP<br></h2>
 
 ###
 
