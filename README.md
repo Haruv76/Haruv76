@@ -1,6 +1,6 @@
 <h2 align="left">Vivian/Haruv • She/Her<br>learning - python (CyberSecurity), Luau, GML, mc skript & javascript<br>Wanna learn - discord.js, C#, C++, PHP<br></h2>
 <h4>besides that, i really love to draw,sew playing piano and poetry</h4>
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
