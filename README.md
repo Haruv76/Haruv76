@@ -1,5 +1,6 @@
 <h2 align="left">Vivian/Haruv • She/Her<br>learning - python (CyberSecurity), Luau, GML, mc skript & javascript<br>Wanna learn - discord.js, C#, C++, PHP<br></h2>
-<h4>besides that, i really love to draw,sew playing piano and poetry</h4>
+<h4>besides that, i really love to draw,sew playing piano and poetry. i really wanna do something big but never got the chance to. 
+i am obsessed with the show miraculous ladybug, playing osu and music </h4>
 
 
 <div align="left">
