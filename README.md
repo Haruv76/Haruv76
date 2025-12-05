@@ -1,5 +1,5 @@
 <h2 align="left">Vivian/Haruv • She/Her<br>learning - python (CyberSecurity), Luau, GML, mc skript & javascript<br>Wanna learn - discord.js, C#, C++, PHP<br></h2>
-
+<h1>besides that, i really love to draw,sew playing piano and poetry</h1>
 ###
 
 <div align="left">
